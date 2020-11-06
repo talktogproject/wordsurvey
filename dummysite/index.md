@@ -1,6 +1,6 @@
 ## WORD SURVEY DUMMY SITE
 
-This is a simulation *(not an exact replica)* of the AoA survey for instances when the participant is not accessible by video call/share screen options. Which page do you want to see?
+This is a simulation *(not an exact replica)* of the AoA survey for instances when the participant is not accessible by video call/share screen options. This is meant to help you visualise the survey and jump straight to the type of screen they may be looking at. Which page do you want to see?
 
 ### [Introduction Page](welcome.md)
 * Participant reads an introduction and clicks on Consent/Do Not Consent
