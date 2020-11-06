@@ -53,4 +53,9 @@ You might get a little tired from answering the survey. We will make sure that y
 
 **What next?** 
 
-If you agree to participate, we will ask you to email to us a complete and signed consent form. If you have any questions or complaints, please contact the TalkTogether research team at [telephone] / [local email address] or the principal investigator of the international team, Dr. Sonali Nag: sonali.nag@education.ox.ac.uk   
+If you agree to participate, we will ask you to email to us a complete and signed [consent form](https://github.com/talktogproject/wordsurvey/raw/gh-pages/ConsentForm.doc). You may contact the following for any questions or concerns about the study:
+
+* Researcher: Deekshitha Kotian (deekshithakotian@t-p-f.org)
+* India Co-Investigator: Prof. Gideon Arulmani (garulmani@t-p-f.org)
+* Principal Investigator: Prof. Sonali Nag (sonali.nag@education.ox.ac.uk)
+
