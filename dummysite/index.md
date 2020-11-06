@@ -28,4 +28,4 @@ By clicking "I consent" below, you acknowledge the following:
 
 Proceed to the next page by clicking on the blue forward arrow below.
 
-### [blue arrows should be found here](consent.md)
+### [>>](consent.md)
