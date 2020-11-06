@@ -35,7 +35,13 @@ Which screen does the participant need help with?
 
 #### Take a break page
 
+<img src="https://talktogproject.github.io/wordsurvey/cheatsheet/break.png" style="display: block; margin: auto;">
+
 #### "I Do Not Consent" Page
 
+<img src="https://talktogproject.github.io/wordsurvey/cheatsheet/consent.png" style="display: block; margin: auto;">
+
 #### End page
+
+<img src="https://talktogproject.github.io/wordsurvey/cheatsheet/endofsurvey.png" style="display: block; margin: auto;">
 
