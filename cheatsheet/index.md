@@ -20,18 +20,14 @@ Which screen does the participant need help with?
 ### * [Academic/Language expert-only questions](https://oxfordeducation.eu.qualtrics.com/jfe/preview/SV_cx4xgeTh0BenNOd?Q_CHL=preview&Q_SurveyVersionID=current)
 
 ### "Understanding Words" / Age of Acquisition Survey
-* NOTE: Counterbalanced with visualisability in the main survey; so visualisability list may come first
-
 ### * [Instructions and Examples](https://oxfordeducation.eu.qualtrics.com/jfe/preview/SV_aaWBdttisgpGgD3?Q_CHL=preview&Q_SurveyVersionID=current)
 ### * [Items for rating](https://oxfordeducation.eu.qualtrics.com/jfe/preview/SV_0pUiEsjh4sNW5zD?Q_CHL=preview&Q_SurveyVersionID=current)
-* NOTE: Actual order of items are randomized; you may be seeing a different set of words
+* NOTES: Counterbalanced with visualisability in the main survey; actual order of items are randomized; you may be seeing a different set of words
 
 ### Instructions for the "Making Mental Pictures of Words" Visualisability survey
-* NOTE: Counterbalanced with AoA in the main survey; so AoA list may come first
-
 ### * [Instructions and Examples](https://oxfordeducation.eu.qualtrics.com/jfe/preview/SV_2gzdbZsMmADBqSN?Q_CHL=preview&Q_SurveyVersionID=current)
 ### * [Items for rating](https://oxfordeducation.eu.qualtrics.com/jfe/preview/SV_abILsBiGKaslXvL?Q_CHL=preview&Q_SurveyVersionID=current)
-* NOTE: Actual order of items are randomized; you may be seeing a different set of words
+* NOTE: Counterbalanced with AoA in the main survey; so AoA list may come first; actual order of items are randomized; you may be seeing a different set of words
 
 ### Other pages
 
