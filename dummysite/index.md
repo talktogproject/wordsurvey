@@ -21,8 +21,8 @@ By clicking "I consent" below, you acknowledge the following:
 6. I understand that I can change my mind later.
 7. I want to participate in the study.
 
-### I consent. I would like to begin the study.(consent.md)
-### I do not consent. I would like to withdraw my participation from the study.(noconsent.md)
+### [I consent. I would like to begin the study.](consent.md)
+### [I do not consent. I would like to withdraw my participation from the study.](noconsent.md)
 
 Proceed to the next page by clicking on the blue forward arrow below.
 
