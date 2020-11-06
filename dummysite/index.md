@@ -21,9 +21,9 @@ This is a simulation *(not an exact replica)* of the AoA survey for instances wh
 
 ### Other pages
 
-####[Take a break page](break.md)
+#### [Take a break page](break.md)
 
-####["I Do Not Consent" Page](noconsent.md)
+#### ["I Do Not Consent" Page](noconsent.md)
 
-####[End page](end.md)
+#### [End page](end.md)
 
