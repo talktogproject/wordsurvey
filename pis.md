@@ -28,7 +28,7 @@ Each session should take around 30 to 45 minutes. You can ask to pause or stop t
 
 **DATA & RESULTS** 
 
-What data will you collect? 
+**What data will you collect?**
 
 We will ask for your age, gender, your occupation, and your experience with 3-to-6 year-old children (e.g., number and ages of children for parent participants and years of teaching experience, subjects and grade levels taught for teacher participants). We are collecting this information to describe the participants of our survey. For the judgments you made for when each word is first understood, we will record the age-band. For judgments you made for whether a word is easy or difficult to visualise by a child, we will record this also.  
 
