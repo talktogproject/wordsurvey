@@ -9,8 +9,7 @@ Which screen does the participant need help with?
 ### [Introduction Page](https://oxfordeducation.eu.qualtrics.com/jfe/preview/SV_afWnqfxWGaaPD8x?Q_CHL=preview&Q_SurveyVersionID=current)
 * Participant reads an introduction and clicks on Consent/Do Not Consent
 
-### [Login Page](https://oxfordeducation.eu.qualtrics.com/jfe/preview/SV_2aZAe44TXSilCyF?Q_CHL=preview&Q_SurveyVersionID=current)
-* Participant needs to input their login ID - the login ID is assigned by the researcher & relayed in the e-mail containing the link to the study
+### Login page has been removed. Participants are now automatically authenticated.
 
 ### [Demographics Page](https://oxfordeducation.eu.qualtrics.com/jfe/preview/SV_2gjcaHAdPGJK95X?Q_CHL=preview&Q_SurveyVersionID=current)
 * Participant supplies basic details re: age, gender, education, language background
