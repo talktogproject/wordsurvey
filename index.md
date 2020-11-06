@@ -9,9 +9,9 @@ We are looking for parents, teachers, or local language experts to participate i
 
 ## **How to join**
 
-### 1. [Read the Participant Information Sheet](pis.md)
-### 2. [Fill up and e-mail the consent form](https://github.com/talktogproject/wordsurvey/raw/gh-pages/ConsentForm.doc)
-### 3. The Promise team will get in touch to schedule your session.
+### 1. Read the [Participant Information Sheet](pis.md)
+### 2. Download, fill up, and e-mail the [consent form](https://github.com/talktogproject/wordsurvey/raw/gh-pages/ConsentForm.doc) to our team
+### 3. We will get in touch to schedule your survey session
 
 
 If you have any questions or would like more information please contact Deekshitha Kotian from The Promise Foundation at deekshithakotian@t-p-f.org.  Participation is voluntary. 
