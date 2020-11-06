@@ -1,4 +1,7 @@
+<img src="https://talktogproject.github.io/wordsurvey/TT-UP-TPF.png" style="display: block; margin: auto;">
+
 **TalkTogether: Supporting Oral Language Development**
+
 Word Survey Pilot Survey
  
 We aim to understand how Indian children develop their language skills. For this task, we will give you sets of words in Kannada. For each word, you will tell us when you think they are first understood by children. We will also ask you to tell us how easy or difficult it is to visualise or make a picture of the word in children's minds. Your responses will be kept private. A researcher is available to guide you through the completion of this survey.
