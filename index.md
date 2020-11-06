@@ -14,7 +14,7 @@ We are looking for parents, teachers, or local language experts to participate i
 ### 3. We will get in touch to schedule your survey session
 
 
-If you have any questions or would like more information please contact Deekshitha Kotian from The Promise Foundation at deekshithakotian@t-p-f.org.  Participation is voluntary. 
+If you have any questions or would like more information please contact Deekshitha Kotian at deekshithakotian@t-p-f.org.  Participation is voluntary. 
 
 
  
