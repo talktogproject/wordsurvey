@@ -22,7 +22,9 @@ By clicking "I consent" below, you acknowledge the following:
 7. I want to participate in the study.
 
 ### [I consent. I would like to begin the study.](consent.md)
+*In actual survey participant needs to click on this AND the blue arrow at the bottom right of the page*
 ### [I do not consent. I would like to withdraw my participation from the study.](noconsent.md)
+*In actual survey participant needs to click on this AND the blue arrow at the bottom right of the page*
 
 Proceed to the next page by clicking on the blue forward arrow below.
 
