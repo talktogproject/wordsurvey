@@ -9,7 +9,7 @@ We are looking for parents, teachers, or local language experts to participate i
 
 ## **How to join**
 
-### 1. Read the [Participant Information Sheet](pis-pilot.md)
+### 1. Read the [Participant Information Sheet](pis-actual.md)
 ### 2. Download, fill up, and e-mail the [consent form](https://github.com/talktogproject/wordsurvey/raw/gh-pages/ConsentForm.doc) to our team
 ### 3. We will get in touch to schedule your survey session
 
