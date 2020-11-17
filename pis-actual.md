@@ -19,9 +19,9 @@ Language is important because it helps children become better at reading. Strong
 
 After you read this information sheet, you may ask any question that you may have about the project. If you still wish to participate, we will ask you to complete a consent form for the study, then schedule with you one practice session and four survey sessions at a time convenient for you and through to your preferred mode of communication (e.g., landline, mobile, or online voice call services such as Whatsapp, Skype, Zoom, Google Meet). 
 
-In the pilot session, we will ask you to be in front of your computer with a working internet connection. We will send you a hyperlink to the pilot survey, which we will ask you to complete. The survey contains sets of words in Kannada. For each word, you will be asked to identify, according to what you think, the age of the child when they first understand the given word.  You will also be asked to identify, based on what you think, the child’s ability to visualize or picture in their mind the given word. We will ask you if you were able to access the survey, understand the questions, and submit your responses successfully. We will also answer any question that you may have at this time. 
+In the practice session, we will ask you to be in front of your computer with a working internet connection. We will send you a hyperlink to the pilot survey, which we will ask you to complete. The survey contains sets of words in Kannada. For each word, you will be asked to identify, according to what you think, the age of the child when they first understand the given word.  You will also be asked to identify, based on what you think, how much a word can create a mental image in our mind. We will ask you if you were able to access the survey, understand the questions, and submit your responses successfully. We will also answer any question that you may have at this time. 
 
-After completing the pilot survey, we will schedule 2 - 4 survey sessions with you. We will send you a hyperlink to each session. We will be available to answer any questions that you may have while completing the survey. 
+After completing the practice session, we will schedule around 4 survey sessions with you. We will send you a hyperlink to each session. We will be available to answer any questions that you may have while completing the survey. 
 
 Each session should take around 30 to 45 minutes. You can ask to pause or stop the session at any time. If you are unable to finish a session, we will schedule another session with you.  
 
@@ -30,14 +30,14 @@ Each session should take around 30 to 45 minutes. You can ask to pause or stop t
 
 **What data will you collect?**
 
-We will ask for your age, gender, your occupation, and your experience with 3-to-6 year-old children (e.g., number and ages of children for parent participants and years of teaching experience, subjects and grade levels taught for teacher participants). We are collecting this information to describe the participants of our survey. For the judgments you made for when each word is first understood, we will record the age-band. For judgments you made for whether a word is easy or difficult to visualise by a child, we will record this also.  
+We will ask for your age, gender, your occupation, and your experience with 3-to-6 year-old children (e.g., number and ages of children for parent participants and years of teaching experience, subjects and grade levels taught for teacher participants). We are collecting this information to describe the participants of our survey. For the judgments you made for when each word is first understood, we will record the age-band. For judgments you made for whether a word is easy or difficult to visualise, we will record this also.  
 
 
 **What will happen to the data?** 
 
 While the project is ongoing, we will enter all information in computer files and these will be stored with password protection in the Oxford University servers. Only members of the research team can access these. We want to compute the average of everyone’s judgments and share this with other researchers who want to know more about child language. The knowledge that we learn will be shared in scientific journals, presentations, and reports.  
 
-We will only communicate with you using work e-mail accounts and project-specific mobile phone numbers. All e-mails and messages related to your participation in the study will be deleted in the last quarter of the TalkTogether project on October 2022.
+We will only communicate with you using work e-mail accounts and authorized mobile phone numbers. All e-mails and messages related to your participation in the study will be deleted in the last quarter of the TalkTogether project on October 2022.
 
 
 
