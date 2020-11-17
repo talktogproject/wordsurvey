@@ -17,7 +17,7 @@ Language is important because it helps children become better at reading. Strong
 
 **WHAT WILL HAPPEN?** 
 
-After you read this information sheet, you may ask any question that you may have about the project. If you still wish to participate, we will ask you to complete a consent form for the study, then schedule with you one practice session and four survey sessions at a time convenient for you and through to your preferred mode of communication (e.g., landline, mobile, or online voice call services such as Whatsapp, Skype, Zoom, Microsoft Teams). 
+After you read this information sheet, you may ask any question that you may have about the project. If you still wish to participate, we will ask you to complete a consent form for the study, then schedule with you one practice session and four survey sessions at a time convenient for you and through to your preferred mode of communication (e.g., landline, mobile, or online voice call services such as Whatsapp, Skype, Zoom, Google Meet). 
 
 In the pilot session, we will ask you to be in front of your computer with a working internet connection. We will send you a hyperlink to the pilot survey, which we will ask you to complete. The survey contains sets of words in Kannada. For each word, you will be asked to identify, according to what you think, the age of the child when they first understand the given word.  You will also be asked to identify, based on what you think, the child’s ability to visualize or picture in their mind the given word. We will ask you if you were able to access the survey, understand the questions, and submit your responses successfully. We will also answer any question that you may have at this time. 
 
