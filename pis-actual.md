@@ -9,7 +9,7 @@ We are researchers from The Promise Foundation. We are working on a research pro
 
 We want to understand how children develop their language skills in the different languages they know: Kannada, English, and other languages. For this we are studying children’s language at home and in school for three years. This year our research focuses on finding the best activities to measure language in children between 3 to 6 years old. 
 
-You have been invited because you are a parent or a teacher who is fluent in Kannada.
+You have been invited because you are a parent, a teacher, or a language expert who is fluent in Kannada.
 
 **WHAT IS THE STUDY ABOUT?**
 
