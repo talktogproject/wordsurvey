@@ -53,7 +53,7 @@ You might get a little tired from answering the survey. We will make sure that y
 
 **What next?** 
 
-If you agree to participate, we will ask you to email to us a complete and signed [consent form](https://github.com/talktogproject/wordsurvey/raw/gh-pages/ConsentForm.doc). You may contact the following for any questions or concerns about the study:
+If you agree to participate, we will ask you to email to us a complete and signed [consent form](https://github.com/talktogproject/wordsurvey/raw/gh-pages/ConsentForm_WordSurvey.doc). You may contact the following for any questions or concerns about the study:
 
 * Researcher: Deekshitha Kotian (deekshithakotian@t-p-f.org)
 * India Co-Investigator: Prof. Gideon Arulmani (garulmani@t-p-f.org)
