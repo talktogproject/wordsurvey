@@ -37,7 +37,7 @@ We will ask for your age, gender, your occupation, the languages you know, and y
 
 While the project is ongoing, we will enter all information in computer files and these will be stored with password protection in the Oxford University servers. Only members of the research team can access these. We want to compute the average of everyone’s judgments and share this with other researchers who want to know more about child language. The knowledge that we learn will be shared in scientific journals, presentations, and reports.  
 
-We will only communicate with you using work e-mail accounts and authorized mobile phone numbers. All e-mails and messages related to your participation in the study will be deleted in the last quarter of the TalkTogether project on October 2022.
+We will only communicate with you using work e-mail accounts and phone numbers. All e-mails and messages related to your participation in the study will be deleted in the last quarter of the TalkTogether project on October 2022.
 
 
 
