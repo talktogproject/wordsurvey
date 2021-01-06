@@ -1,4 +1,4 @@
-<img src="https://github.com/talktogproject/wordsurvey/blob/gh-pages/Tt+up+tpf+iclip.png" style="display: block; margin: auto;">
+<img src="https://talktogproject.github.io/wordsurvey/Tt+up+tpf+iclip.png" style="display: block; margin: auto;">
 
 # TALKTOGETHER ಪಾಲ್ಗೊಳ್ಳಲು ನಿಮ್ಮನ್ನು ಆಹ್ವಾನಿಸಲಾಗಿದೆ
 ## ಪದ ಸಮೀಕ್ಷೆ
