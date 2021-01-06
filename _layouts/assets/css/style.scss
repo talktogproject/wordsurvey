@@ -1,5 +1,10 @@
 @import "jekyll-theme-minimal";
 
-section {
+div {
+  height: 700px;
   width: 700px;
+}
+
+section {
+  width: 650px;
 }
