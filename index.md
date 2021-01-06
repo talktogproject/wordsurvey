@@ -25,4 +25,4 @@ TALKTOGETHER ಎಂಬುದು ಆಕ್ಸ್ ಫರ್ಡ್ ವಿಶ್ವ�
 ಕೆಳಗಿನವುಗಳನ್ನು ಖಚಿತಪಡಿಸಲು ದಯವಿಟ್ಟು ಪ್ರತಿಕ್ರಿಯಿಸಿ:
 
 
-<iframe src="https://forms.office.com/Pages/ResponsePage.aspx?id=G96VzPWXk0-0uv5ouFLPkduYFQ4eP75OtQ_b_3tRiwNUME1TT1JVRUMxVEZXUFBTU1hMT0RUVks5Vi4u&embed=true" frameborder="0" id="mainPageBody" width="700px" height="500px"></iframe>
+<iframe src="https://forms.office.com/Pages/ResponsePage.aspx?id=G96VzPWXk0-0uv5ouFLPkduYFQ4eP75OtQ_b_3tRiwNUME1TT1JVRUMxVEZXUFBTU1hMT0RUVks5Vi4u&embed=true" frameborder="0" id="mainPageBody" max-width: 60% height="500px"></iframe>
