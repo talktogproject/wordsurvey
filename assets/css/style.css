@@ -3,6 +3,7 @@
 body {background-color: white;}
 
 div {
+  font-size: 12px;
   max-width: 70%;
   margin: auto;
 }
