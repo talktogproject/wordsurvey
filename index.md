@@ -4,3 +4,4 @@ India milestone report
 
 Philippines milestone report
 * [60 participants](PH-report-60.html)
+* [70 participants](PH-report-70.html)
